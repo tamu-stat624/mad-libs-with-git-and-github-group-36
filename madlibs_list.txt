@@ -1,8 +1,8 @@
-1. Friend's Name
-2. Adjective
-3. Adjective
-4. Color
-5. Month
+1. Friend's Name: Mike
+2. Adjective: glowing 
+3. Adjective: vast
+4. Color: silver
+5. Month: October
 6. Number
 7. Noun (Plural)
 8. Noun (Plural)
@@ -18,4 +18,4 @@
 18. Different Activity
 19. Adjective
 20. Vehicle
-21. Your Name
+21. Your Name: Alex
