@@ -8,11 +8,11 @@
 8. Noun (Plural)
 9. Noun
 10. Room Name
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid : juice
+12. Adjective : sweet
+13. Material : fibre
+14. Activity : drinking
+15. Adverb : efficiently
 16. Number
 17. Unit of Time
 18. Different Activity
