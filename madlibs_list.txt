@@ -3,11 +3,11 @@
 3. Adjective: vast
 4. Color: silver
 5. Month: October
-6. Number
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
+6. Number: Countless
+7. Noun (Plural): Stars
+8. Noun (Plural): Planets 
+9. Noun: Different Colors
+10. Room Name: Spaceship
 11. Liquid
 12. Adjective
 13. Material
