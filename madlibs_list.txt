@@ -13,9 +13,9 @@
 13. Material : fibre
 14. Activity : drinking
 15. Adverb : efficiently
-16. Number
-17. Unit of Time
-18. Different Activity
-19. Adjective
-20. Vehicle
+16. Number: two
+17. Unit of Time: days
+18. Different Activity: accessed
+19. Adjective: red
+20. Vehicle: bike
 21. Your Name: Alex
