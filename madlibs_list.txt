@@ -8,11 +8,11 @@
 8. Noun (Plural): planets 
 9. Noun: different colors
 10. Room Name: spaceship
-11. Liquid
-12. Adjective
-13. Material
-14. Activity
-15. Adverb
+11. Liquid : juice
+12. Adjective : sweet
+13. Material : fibre
+14. Activity : drinking
+15. Adverb : efficiently
 16. Number
 17. Unit of Times
 18. Different Activity
